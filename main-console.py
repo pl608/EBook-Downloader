@@ -1,8 +1,5 @@
 import python.downloadC as download, python.stripC as strip, sys, getopt, zipfile, pickle, loadbar
-from tkinter.ttk import *
 
-burl = ''
-p = 0
 def run(u,p,t):
     pages, title = download.run(u,t,p)
     strip.run(title, pages)

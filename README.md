@@ -1,4 +1,4 @@
-# EBook-Downloader
+# EBook Downloader(pluss hopefully editer...)
 downloads eBooks and takes away extra(useless) data
 
 ## Website

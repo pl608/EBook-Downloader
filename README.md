@@ -6,12 +6,15 @@ at the moment this only supports [this website](https://novelasfreeonline.com)
 will try to add more
 
 ## To Do:
-* add epub support
-* add [gutenburg project](https://www.gutenberg.org/) support
-* add zip --> epub support
-* [make it look REAL nice](#make-it-look-real-nice)
-* MAYBE add .mobi support
-* [better "useless data" deleter](#better-useless-data-deleter)
+ - [ ] add epub support
+ - [ ] add [gutenburg project](https://www.gutenberg.org/) support
+ - [ ]  add zip --> epub support
+ - [ ]  [make it look REAL nice](#make-it-look-real-nice)
+ - [ ]  MAYBE add .mobi support
+ - [ ]  [better "useless data" deleter](#better-useless-data-deleter)
+ - [ ]  clean up code/make it look more proffesional
+ - [ ]  figure out a good way to realese it
+ - [ ]  figure out how to spell realese
 
 ##### Make it look real nice:
  - [ ] full screen

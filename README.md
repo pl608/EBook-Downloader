@@ -27,7 +27,7 @@ will try to add more
 
 ## Done:
  - [x] make a semi-working "useless data" deleter
- - [x] add .zip support
+ - [x] add .zip support(taking away zip so I can add epub)
  - [x] make it look acceptable
 
 # ALSO

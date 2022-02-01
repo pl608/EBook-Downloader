@@ -53,7 +53,7 @@ def gd(url,title,bar,root):
         k.write(out)       
 def getstuff(url):
     ra = url.split('/')
-    print(ra[2])
+    print(ra)
     auth = ra[3]
     title = ra[4].replace('-',' ')
     title = title.replace('_',' ')

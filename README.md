@@ -6,11 +6,11 @@ at the moment this only supports [this website](https://novelasfreeonline.com)
 will try to add more
 ### I leave it up to you to get rid if the error:
    ``` saveB = Button(root, text='Save',command=lambda: save(root, progress),state=DISABLED)
-  File "c:\Users\###\Desktop\E-Book Downloader\tests\main\main-gui.pyw", line 53, in save
+  File "path\main-gui.pyw", line 53, in save
     z = threading.Thread(target=zip2epub.run,args=(tt,root,pp,f,bar,strip.getcover(uu)),name='epubing :)')
-  File "c:\Users\###\Desktop\E-Book Downloader\tests\main\python\strip.py", line 31, in getcover
+  File "path\python\strip.py", line 31, in getcover
     stuff = download.getstuff(url)
-  File "c:\Users\nimble\Desktop\E-Book Downloader\tests\main\python\download.py", line 56, in getstuff
+  File "path\python\download.py", line 56, in getstuff
     print(ra[2])
 IndexError: list index out of range
 ```

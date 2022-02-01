@@ -11,7 +11,7 @@ will try to add more
   File "path\python\strip.py", line 31, in getcover
     stuff = download.getstuff(url)
   File "path\python\download.py", line 56, in getstuff
-    print(ra[2])
+    print(ra)
 IndexError: list index out of range
 ```
 ## To Do:

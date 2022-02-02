@@ -41,4 +41,4 @@ IndexError: list index out of range
 
 # ALSO
 I leave it to you to fix the loading bar(if you cant just comment it out) ツ
-also: there is a chance that this is copyright infringment(or whatever that stuff is) but they stuck it on the nternet in such a tempting way and it was a fun projects :) 
+also: there is a chance that this is copyright infringment(or whatever that stuff is) but they stuck it on the internet in such a tempting way and it was a fun projects :) 

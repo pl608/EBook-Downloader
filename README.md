@@ -11,9 +11,10 @@ will try to add more
   File "path\python\strip.py", line 31, in getcover
     stuff = download.getstuff(url)
   File "path\python\download.py", line 56, in getstuff
-    print(ra)
+    print(ra[2])
 IndexError: list index out of range
 ```
+alsojust a heads up o changed `print(ra[2])` --> `print(ra)`
 ## To Do:
  - [ ]  add zip --> epub support
  - [ ]  [make it look REAL nice](#make-it-look-real-nice)

@@ -14,7 +14,10 @@ will try to add more
     print(ra[2])
 IndexError: list index out of range
 ```
-alsojust a heads up o changed `print(ra[2])` --> `print(ra)`
+Just a heads up I changed `print(ra[2])` --> `print(ra)` so if you cant find it here it is
+##### FAQ (about this issue)
+* some ~~specific~~ people where wondering where `download.py` is used. It is used in `main-gui.pyw` as a module in `run()` which is called when you press the run button in the GUI. It is also called in `strip(C).py` when in `getcover()`
+* also `C` in `downloadC.py` and `stripC.py` stands for console and is used in `main-console.py`
 ## To Do:
  - [ ]  add zip --> epub support
  - [ ]  [make it look REAL nice](#make-it-look-real-nice)
